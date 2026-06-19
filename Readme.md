@@ -11,3 +11,6 @@ R-Squared
 MSE
 Likelihood
 ROC and AUC
+
+Raw data - Kaggle dataset - /data/raw
+Clean data - /data/clean
